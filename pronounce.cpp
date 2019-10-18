@@ -10,8 +10,8 @@
 // Project 2
 //
 //
-// this project will get user input, go through dictionary to get the pronunciation, identical word, add phoneme,
-// replace phoneme, and remove phoneme to find words
+//In this project I am going to implement a linguistic application that uses a pronunciation dictionary 
+//for finding words with similar pronunciation.
 //
 //
 //
